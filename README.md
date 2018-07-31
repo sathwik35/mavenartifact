@@ -1,1 +1,1 @@
-# mavenartifact
+# MavenArtifact
